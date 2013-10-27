@@ -7,6 +7,7 @@ If for some reason your build requires a different version of a tool or a differ
 * NuGet 2.5, 2.6, 2.7, 2.7.1
 * NUnit 2.6.2
 * XUnit 1.9.6
+* Curl 7.33.0 (x86/x64 with openssl, openssh and zlib support)
 
 ## Adding MyGet Build Tools to your build
 

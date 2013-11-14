@@ -4,7 +4,7 @@ Out of the box,  [MyGet Build Services](http://www.myget.org) supports building 
 
 If for some reason your build requires a different version of a tool or a different test runner, this GitHub repository can be of help. It currently contains the following tools:
 
-* NuGet 2.5, 2.6, 2.7, 2.7.1
+* NuGet 2.5, 2.6, 2.7, 2.7.1, 2.7.2
 * NUnit 2.6.2
 * XUnit 1.9.6
 * curl 7.33.0 (x86/x64 with openssl, openssh and zlib support)

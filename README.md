@@ -8,6 +8,7 @@ If for some reason your build requires a different version of a tool or a differ
 * NUnit 2.6.2
 * XUnit 1.9.6
 * curl 7.40.0 (x86/x64 with openssl, openssh and zlib support)
+* remotelens-scp (.NET with SSH/SCP upload support)
 
 ## Adding MyGet Build Tools to your build
 
